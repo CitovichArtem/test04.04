@@ -1,0 +1,18 @@
+body{
+    height: 100svh;
+    width: 100svw;
+}
+canvas {
+
+    border: 1px solid black;
+    background: linear-gradient(to bottom right, #0b5345, #2e7d32);
+    background-image: url('../images/фон.jpg');
+    
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+
+}
+
+
+
